@@ -1,14 +1,14 @@
 module.exports = {
   siteMetadata: {
-    title: `Witalne Inspiracje`,
+    title: `TekTok Blog`,
     author: {
-      name: `Ewa Cesarz`,
-      summary: `Redaktor naczelna magazynów lifestylowych.`,
+      name: `Gray Monk`,
+      summary: `Designer, developer and blogger.`,
     },
-    description: `Witalne Inspiracje - zdrowie, dieta, joga.`,
-    siteUrl: `https://artofbeauty.com.pl/`,
+    description: `Blogging about tech industry and development.`,
+    siteUrl: `https://blog.tektok.xyz/`,
     social: {
-      twitter: `ewacesarz`,
+      twitter: `tektokxyz`,
     },
   },
   plugins: [
